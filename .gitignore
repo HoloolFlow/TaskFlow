@@ -1,0 +1,21 @@
+# Folders (keep them on disk, just ignore in Git)
+node_modules/
+Old/
+Old2/
+Old3/
+
+# Files (keep them on disk)
+TaskFlow.txt
+README.md
+
+# Env & backups
+.env
+*.bak
+*backup*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
