@@ -3,7 +3,7 @@
    Offline-First PWA
    =================================================== */
 
-const CACHE_NAME = 'taskflow-v2.0';
+const CACHE_NAME = 'taskflow-v5.0';
 const ASSETS = [
   './',
   './index.html',
